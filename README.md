@@ -1,8 +1,8 @@
-NUI React Handling Editor for vehicles
+NUI React Typescript Handling Editor for vehicles usint Chakra UI 
 ===============================
 In Development
 
-Current Work
+Progress
 ===============================
 
 
