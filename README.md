@@ -4,7 +4,7 @@ In Development
 
 Progress
 ===============================
-
+![progress](progress.png)
 
 Acknowledgements
 ===============================
