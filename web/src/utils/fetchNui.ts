@@ -37,8 +37,8 @@ export async function fetchNui<T = unknown>(
     ? window.GetParentResourceName()
     : "nui-frame-app";
 
+  console.log(`fetchNui: Sending data to ${resourceName} with eventname ${eventName}`);
   const resp = await fetch(`https://${resourceName}/${eventName}`, options);
-
   const respFormatted = await resp.json();
 
   return respFormatted;
